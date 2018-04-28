@@ -1,7 +1,7 @@
 # inmarDemo
 This application was developed in ReactJs with NPM,ES6
 # Take clone from below url
-url here
+https://github.com/yourskishore/inmarDemo.git
 # NPM install
 make sure Node installed in your PC
 # NPM Start
